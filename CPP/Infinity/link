@@ -1,0 +1,5 @@
+g++ -c cstdio.cpp
+g++ -c iostream.cpp
+g++ *.o
+mv a.out target
+rm *.o

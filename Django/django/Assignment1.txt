@@ -1,0 +1,43 @@
+create a project using django
+
+install virturn envi
+
+create vir env
+
+install djano
+
+create a project : inventory_app
+
+check settings.py, make sure u installed sqlite or any database
+
+test server make sure good so far
+
+create a application: productapp
+
+create a model: product[ its a class ]
+
+make migrations 
+
+
+migrate
+
+check the db , all tables are created or not
+create super user
+
+open admin.py, register the model to admin
+
+run server
+
+
+
+http://localhost:8000/admin
+
+aceess admin page
+
+add a product here, make sure its inserted in db table
+
+delete, update, make sure admin is working good
+
+check the database for all these actions.
+
+also manage empty url, that will load a template for testing.

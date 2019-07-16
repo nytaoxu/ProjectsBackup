@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% for product in apple  %}
+<div>
+
+<h1><a href ="{% url 'product_details' product.id %}">{{product.name}}</a></h1>
+
+</div>
+{% endfor %}
+
+<h1><a href ="product\new">Form</a></h1>
+</body>
+</html>

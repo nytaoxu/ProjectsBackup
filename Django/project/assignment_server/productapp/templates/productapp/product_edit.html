@@ -1,0 +1,13 @@
+<html lang="en">
+ <head>
+  <title>new form</title>
+  <h1><a href ="{% url 'product_list' %}">HOME</a></h1>
+ </head>
+ <body>
+<form method = "post" class="product_form">
+{% csrf_token %}
+{{form.as_p}}
+<button type="submit">save</button>
+</form>
+</body>
+</html>

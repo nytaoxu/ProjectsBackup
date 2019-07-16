@@ -1,0 +1,28 @@
+MacBook Pro
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Not to be confused with Mac Pro.
+MacBook Pro
+Macbook pro.png
+15‑inch MacBook Pro - Space Gray, late 2018
+Developer	Apple Inc.
+Manufacturer	Foxconn
+Pegatron
+Product family	MacBook family
+Type	Laptop
+Release date	
+January 10, 2006; 13 years ago (Original)
+October 30, 2018 (Current)
+Operating system	macOS
+Predecessor	PowerBook G4
+Related articles	MacBook, MacBook Air, iMac
+Website	www.apple.com/macbook-pro/
+The MacBook Pro (sometimes abbreviated as MBP)[1] is a line of Macintosh portable computers introduced in January 2006 by Apple Inc. It is the high-end model of the MacBook family and is currently available in 13- and 15-inch screen sizes. A 17-inch version was available between April 2006 and June 2012.
+
+The first generation MacBook Pro is externally similar to the PowerBook G4 it replaces, but uses Intel Core processors instead of PowerPC G4 chips. The 15-inch model was introduced first, in January 2006; the 17-inch model followed in April. Both received several updates and Core 2 Duo processors later in 2006.
+
+The product's second iteration, known as the "unibody" model, has a casing made from a single piece of aluminum. It debuted in October 2008 in 13- and 15-inch screen sizes. In January 2009, the 17-inch model was updated with the same unibody design. Subsequent updates brought upgraded Intel Core i5 and i7 processors and introduced Intel's Thunderbolt technology.
+
+Apple released the third generation of MacBook Pro with a 15-inch screen during WWDC 2012 and discontinued the 17-inch variant. The previous generation 13- and 15-inch unibody models continued to sell with updated processors. The third generation model is thinner than its predecessor and is the first to include a high-resolution Retina Display. A 13-inch variant was released in October 2012.
+
+The fourth generation MacBook Pro was announced on October 27, 2016. This generation replaced all data ports with USB-C, and with the exception of the baseline model, replaced the function keys with an interactive touchscreen strip called the "Touch Bar" with a Touch ID sensor integrated into the Power button.

@@ -1,0 +1,14 @@
+add views to the project which you started already. also configure url.py file, change settings.py if required, try to
+test the result by starting server.
+
+also write a query set to retrive the data from database , also add filter.
+
+inventory management.
+
+forms to add products, links to update products.
+to view all products, to view only one products.
+create proper template to handle the presentation layer.
+
+create two tables, relationship with foreign key.
+
+write proper querysets to handle the data.
